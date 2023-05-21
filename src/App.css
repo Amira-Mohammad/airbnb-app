@@ -1,0 +1,12 @@
+:root {
+  --red: rgb(255, 56, 92);
+  --white: #ffffff;
+}
+.redColor {
+  color: var(--red);
+}
+.madeIn {
+  position: fixed;
+  bottom: 10px;
+  right: 20px;
+}

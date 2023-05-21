@@ -1,0 +1,12 @@
+.HeaderContainer {
+  height: 72px;
+  /* padding: 16px 32px; */
+}
+
+.profilePic {
+  object-fit: cover;
+}
+
+.HeaderContainer .active {
+  border-bottom: 3px solid var(--red);
+}

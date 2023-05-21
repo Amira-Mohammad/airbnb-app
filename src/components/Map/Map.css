@@ -1,0 +1,12 @@
+.esri-view .esri-view-user-storage {
+  overflow: auto !important;
+}
+.mapContainer {
+  height: 400px;
+}
+canvas {
+  border-radius: 16px;
+}
+.esri-component esri-attribution {
+  visibility: hidden !important;
+}

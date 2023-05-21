@@ -1,0 +1,28 @@
+.itemContainer {
+  height: 400px;
+  border-radius: 16px;
+}
+
+.itemImg {
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  height: 200px;
+}
+
+.itemInfo {
+  height: 180px;
+}
+.wishlistIcon {
+  right: 10px;
+  top: 10px;
+  background-color: white;
+  padding: 8px;
+  border-radius: 50%;
+  color: black;
+  transition: all 0.3s ease-in;
+}
+
+.wishlistIcon:hover {
+  background-color: black;
+  color: white !important;
+}
